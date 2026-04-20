@@ -56,7 +56,7 @@ Mostra como, com poucas linhas de código, já é possível criar algo visual e 
 git clone https://github.com/Gory-Ra/Heart.git
 ```
 
-2. Abra o arquivo `index.html` no navegador
+2. Abra o arquivo `Coração.html` no navegador
 
 ---
 
