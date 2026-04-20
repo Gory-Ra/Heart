@@ -35,8 +35,8 @@ Passe o mouse sobre o quadrado e veja ele se transformar em um coração.
 
 ```bash
 📁 Heart
- ├── index.html
- └── style.css
+ ├── Coração.html
+ └── heart.css
 ```
 
 ---
